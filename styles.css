@@ -1,13 +1,14 @@
 * {
-  margin: 0;
+  margin:0;
   padding: 0;
   box-sizing: border-box;
 }
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #f4f9f4;
+  background-color: aqua;
   color: #333;
   line-height: 1.6;
+  
 }
 
 .navbar {
